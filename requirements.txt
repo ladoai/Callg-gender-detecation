@@ -3,5 +3,5 @@ requests
 librosa
 numpy
 scipy
-pydub
+soundfile
 gunicorn
