@@ -1,0 +1,7 @@
+Flask
+requests
+librosa
+numpy
+scipy
+pydub
+gunicorn
